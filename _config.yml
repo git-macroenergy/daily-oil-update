@@ -1,0 +1,23 @@
+title: "Your Site Name Here"
+description: "Daily takes on crude oil, refining, and product markets."
+theme: minima
+
+# --- Update this before you go live ---
+url: "https://yourdomain.com"
+baseurl: ""
+
+# Show newest posts first, one page of posts
+paginate: 20
+paginate_path: "/page:num/"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/yourusername" }
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
