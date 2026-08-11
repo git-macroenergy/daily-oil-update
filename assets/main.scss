@@ -1,0 +1,85 @@
+---
+---
+
+@import "minima";
+
+$brand-navy: #070c42;
+$brand-lavender: #acb1e3;
+$brand-lavender-light: #d5d8f0;
+
+// --- Header ---
+.site-header {
+  background-color: $brand-navy;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+}
+
+.site-logo {
+  height: 32px;
+  width: auto;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.site-tagline {
+  display: block;
+  font-size: 12px;
+  font-weight: 400;
+  color: $brand-lavender;
+  margin-left: 42px;
+  margin-top: -2px;
+}
+
+.site-nav .page-link {
+  color: $brand-lavender !important;
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff !important;
+}
+
+.site-nav .menu-icon > svg path {
+  fill: $brand-lavender;
+}
+
+// --- Body links & headings ---
+a {
+  color: $brand-navy;
+}
+
+a:visited {
+  color: $brand-navy;
+}
+
+a:hover {
+  color: darken($brand-lavender, 15%);
+}
+
+.post-list h3 a,
+.post-title,
+h1, h2, h3 {
+  color: $brand-navy;
+}
+
+// --- Footer ---
+.site-footer {
+  background-color: $brand-navy;
+  border-top: none;
+  color: $brand-lavender-light;
+}
+
+.site-footer a {
+  color: $brand-lavender-light;
+}
+
+.site-footer .footer-heading {
+  color: #ffffff;
+}
