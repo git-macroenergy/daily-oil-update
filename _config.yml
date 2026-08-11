@@ -1,9 +1,9 @@
-title: "Your Site Name Here"
-description: "Daily takes on crude oil, refining, and product markets."
+title: "macroenergy"
+description: "Daily updates on crude oil, refining, and product markets."
 theme: minima
 
 # --- Update this before you go live ---
-url: "https://yourdomain.com"
+url: "https://daily.macroenergy.net"
 baseurl: ""
 
 # Show newest posts first, one page of posts
