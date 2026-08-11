@@ -4,19 +4,75 @@
       "date": "2026-08-11",
       "items": [
         {
-          "headline": "The US Just Lost Its Emergency Buffer — And Barely Anyone Noticed",
+          "headline": "The US Just Lost Its Emergency Buffer \u2014 And Barely Anyone Noticed",
           "theme": "SPR-depletion",
-          "hashtags": ["StrategicPetroleumReserve", "EnergySecurity", "CrudeOil", "HormuzCrisis", "OilSupply"]
+          "hashtags": [
+            "StrategicPetroleumReserve",
+            "EnergySecurity",
+            "CrudeOil",
+            "HormuzCrisis",
+            "OilSupply"
+          ]
         },
         {
           "headline": "Crude Is Calm. Refining Margins Are Screaming.",
           "theme": "crack-spread-divergence",
-          "hashtags": ["CrackSpread", "RefiningMargins", "DieselShortage", "OilRefining", "EnergyMarkets"]
+          "hashtags": [
+            "CrackSpread",
+            "RefiningMargins",
+            "DieselShortage",
+            "OilRefining",
+            "EnergyMarkets"
+          ]
         },
         {
           "headline": "OPEC+ Says Hormuz Is \"Normalizing.\" The Attacks Say Otherwise.",
           "theme": "opec-narrative-gap",
-          "hashtags": ["OPECPlus", "StraitOfHormuz", "TankerAttacks", "OilGeopolitics", "CrudeSupply"]
+          "hashtags": [
+            "OPECPlus",
+            "StraitOfHormuz",
+            "TankerAttacks",
+            "OilGeopolitics",
+            "CrudeSupply"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "items": [
+        {
+          "headline": "Trump's Reparations Demand Just Reset the Hormuz Clock to Zero",
+          "theme": "trump-iran-reparations-reset",
+          "hashtags": [
+            "StraitOfHormuz",
+            "OilGeopolitics",
+            "IranDeal",
+            "CrudeOil",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Aramco Calls Red Sea Strikes 'No Material Impact.' Its Tankers Are Now Sailing Dark.",
+          "theme": "aramco-red-sea-credibility-gap",
+          "hashtags": [
+            "Aramco",
+            "RedSea",
+            "Houthis",
+            "TankerAttacks",
+            "OilInfrastructure"
+          ]
+        },
+        {
+          "headline": "US Refiners Skipped Spring Maintenance. Hurricane Season Is About to Send the Bill.",
+          "theme": "deferred-maintenance-hurricane-collision",
+          "hashtags": [
+            "RefineryOutage",
+            "HurricaneSeason",
+            "GulfCoast",
+            "OilRefining",
+            "FuelSupply"
+          ]
         }
       ]
     }
