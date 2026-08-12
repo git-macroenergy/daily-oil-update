@@ -75,6 +75,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "items": [
+        {
+          "headline": "Aramco's Jazan Refinery Just Got Hit a Second Time \u2014 Restart Slips Another Two Weeks",
+          "theme": "jazan-refinery-second-strike",
+          "hashtags": [
+            "SaudiAramco",
+            "Jazan",
+            "RefineryOutage",
+            "HouthiAttacks",
+            "DieselMarket"
+          ]
+        },
+        {
+          "headline": "Libya's Largest Refinery Is One Drone Strike From Force Majeure",
+          "theme": "libya-zawiya-force-majeure-risk",
+          "hashtags": [
+            "Libya",
+            "Zawiya",
+            "OPEC",
+            "RefineryOutage",
+            "ForceMajeure"
+          ]
+        },
+        {
+          "headline": "Three Refiners Just Bet $5 Billion That California's Fuel Squeeze Isn't Temporary",
+          "theme": "western-gateway-pipeline-fid",
+          "hashtags": [
+            "WesternGateway",
+            "Phillips66",
+            "KinderMorgan",
+            "HFSinclair",
+            "FuelSupply"
+          ]
+        }
+      ]
     }
   ]
 }
