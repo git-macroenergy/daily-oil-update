@@ -1,0 +1,9 @@
+FIND THIS LINE in scripts/generate_post.py (inside build_post_markdown):
+
+        tag_line = " ".join("#" + h for h in item.get("hashtags", []))
+
+REPLACE WITH:
+
+        tag_line = " ".join(
+            f'<a href="/search/?tag={h}">#{h}</a>' for h in item.get("hashtags", [])
+        )

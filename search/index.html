@@ -1,0 +1,104 @@
+---
+layout: page
+title: Search
+permalink: /search/
+---
+
+<div class="search-wrap">
+  <input type="text" id="search-input" placeholder="Search posts by keyword..." autocomplete="off">
+  <div id="tag-cloud" class="tag-cloud"></div>
+  <p id="results-count"></p>
+  <ul id="results" class="search-results"></ul>
+</div>
+
+<script>
+(function () {
+  var allPosts = [];
+  var searchInput = document.getElementById('search-input');
+  var tagCloud = document.getElementById('tag-cloud');
+  var resultsEl = document.getElementById('results');
+  var countEl = document.getElementById('results-count');
+
+  function paramFromUrl(name) {
+    var params = new URLSearchParams(window.location.search);
+    return params.get(name);
+  }
+
+  function renderResults(posts) {
+    resultsEl.innerHTML = '';
+    countEl.textContent = posts.length + (posts.length === 1 ? ' post found' : ' posts found');
+    posts.forEach(function (post) {
+      var li = document.createElement('li');
+      var tagsHtml = (post.tags || []).map(function (t) {
+        return '<span class="result-tag">#' + t + '</span>';
+      }).join(' ');
+      li.innerHTML =
+        '<a class="result-title" href="{{ "/" | relative_url }}' + post.url.replace(/^\//, '') + '">' + post.title + '</a>' +
+        '<span class="result-date">' + post.date + '</span>' +
+        '<p class="result-excerpt">' + post.excerpt + '</p>' +
+        '<div class="result-tags">' + tagsHtml + '</div>';
+      resultsEl.appendChild(li);
+    });
+  }
+
+  function buildTagCloud(posts) {
+    var counts = {};
+    posts.forEach(function (post) {
+      (post.tags || []).forEach(function (t) {
+        counts[t] = (counts[t] || 0) + 1;
+      });
+    });
+    var tags = Object.keys(counts).sort();
+    tagCloud.innerHTML = tags.map(function (t) {
+      return '<button type="button" class="tag-pill" data-tag="' + t + '">#' + t + ' (' + counts[t] + ')</button>';
+    }).join('');
+
+    tagCloud.querySelectorAll('.tag-pill').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var tag = btn.getAttribute('data-tag');
+        searchInput.value = '#' + tag;
+        filterAndRender();
+      });
+    });
+  }
+
+  function filterAndRender() {
+    var query = searchInput.value.trim().toLowerCase();
+
+    if (!query) {
+      renderResults(allPosts);
+      return;
+    }
+
+    var isTagQuery = query.startsWith('#');
+    var term = isTagQuery ? query.slice(1) : query;
+
+    var filtered = allPosts.filter(function (post) {
+      if (isTagQuery) {
+        return (post.tags || []).some(function (t) {
+          return t.toLowerCase() === term;
+        });
+      }
+      var haystack = (post.title + ' ' + post.excerpt + ' ' + (post.tags || []).join(' ')).toLowerCase();
+      return haystack.indexOf(term) !== -1;
+    });
+
+    renderResults(filtered);
+  }
+
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      allPosts = data;
+      buildTagCloud(allPosts);
+
+      var tagFromUrl = paramFromUrl('tag');
+      if (tagFromUrl) {
+        searchInput.value = '#' + tagFromUrl;
+      }
+      filterAndRender();
+    });
+
+  searchInput.addEventListener('input', filterAndRender);
+})();
+</script>
