@@ -83,3 +83,82 @@ h1, h2, h3 {
 .site-footer .footer-heading {
   color: #ffffff;
 }
+
+
+// --- Search page ---
+.search-wrap {
+  max-width: 700px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 18px;
+  border: 2px solid $brand-navy;
+  border-radius: 6px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.tag-cloud {
+  margin-bottom: 20px;
+}
+
+.tag-pill {
+  display: inline-block;
+  background-color: $brand-lavender-light;
+  color: $brand-navy;
+  border: none;
+  border-radius: 999px;
+  padding: 5px 12px;
+  margin: 0 6px 6px 0;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.tag-pill:hover {
+  background-color: $brand-lavender;
+}
+
+#results-count {
+  color: #666;
+  font-size: 14px;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+}
+
+.search-results li {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 14px 0;
+}
+
+.result-title {
+  font-size: 19px;
+  font-weight: 600;
+  color: $brand-navy;
+  margin-right: 10px;
+}
+
+.result-date {
+  font-size: 13px;
+  color: #888;
+}
+
+.result-excerpt {
+  margin: 6px 0;
+  color: #444;
+}
+
+.result-tag {
+  display: inline-block;
+  font-size: 12px;
+  color: $brand-navy;
+  background-color: $brand-lavender-light;
+  border-radius: 999px;
+  padding: 2px 8px;
+  margin: 0 4px 4px 0;
+}
+
