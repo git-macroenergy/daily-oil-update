@@ -152,7 +152,11 @@ def build_post_markdown(items: list, post_date: date) -> tuple[str, str]:
 
     body_parts = []
     for item in items:
-        tag_line = " ".join("#" + h for h in item.get("hashtags", []))
+        """tag_line = " ".join("#" + h for h in item.get("hashtags", []))"""
+        tag_line = " ".join(
+            f'<a href="/search/?tag={h}">#{h}</a>' for h in item.get("hashtags", [])
+        )
+
         body_parts.append(
             f"## {item['headline']}\n\n{item['paragraph']}\n\n{tag_line}\n"
         )
