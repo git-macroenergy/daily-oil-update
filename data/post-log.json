@@ -113,6 +113,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "items": [
+        {
+          "headline": "US Crude Stocks Just Jumped 17.4 Million Barrels \u2014 It's an Export Bottleneck, Not a Supply Glut",
+          "theme": "crude-export-bottleneck-stockbuild",
+          "hashtags": [
+            "CrudeInventories",
+            "USExports",
+            "HormuzCrisis",
+            "OilLogistics",
+            "EIA"
+          ]
+        },
+        {
+          "headline": "OPEC+ Says It Finished Unwinding Cuts. The War Says Those Barrels Never Left the Ground",
+          "theme": "opec-quota-vs-physical-barrels",
+          "hashtags": [
+            "OPECPlus",
+            "SpareCapacity",
+            "ProductionQuotas",
+            "OilSupply",
+            "Hormuz"
+          ]
+        },
+        {
+          "headline": "Refiners Chased Jet Fuel Margins for Months. Diesel Is Now Collecting the Bill",
+          "theme": "jet-fuel-diesel-payback",
+          "hashtags": [
+            "DieselMarket",
+            "JetFuel",
+            "RefinerStrategy",
+            "FuelSupply",
+            "EnergyMarkets"
+          ]
+        }
+      ]
     }
   ]
 }
