@@ -1,0 +1,12 @@
+Two changes to scripts/generate_post.py in your existing repo:
+
+1) FIND:
+        tag_line = " ".join("#" + h for h in item.get("hashtags", []))
+   REPLACE WITH (if you already applied the earlier clickable-hashtag update, just change the URL path):
+        tag_line = " ".join(
+            f'<a href="/daily/search/?tag={h}">#{h}</a>' for h in item.get("hashtags", [])
+        )
+
+That's the only script change needed. Post file generation, the log, and the
+GitHub Action itself don't need to change - only the config.yml permalink
+setting controls where posts end up living.

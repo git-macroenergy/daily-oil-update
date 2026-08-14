@@ -1,17 +1,20 @@
-title: "macroenergy"
-description: "Daily updates on crude oil, refining, and product markets."
 theme: minima
 
-# --- Update this before you go live ---
-url: "https://daily.macroenergy.net"
+url: "https://macroenergy.net"
 baseurl: ""
 
-# Show newest posts first, one page of posts
-paginate: 20
-paginate_path: "/page:num/"
+title: "MacroEnergy"
+tagline: "Energy Systems Analysis"
+description: "Understand and explore the vast world of macro energy, encompassing the study of large-scale energy systems, policies, and trends that shape our global energy landscape."
 
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+
+# Only affects the posts collection (the daily feed) - pages use their own
+# explicit `permalink` in front matter and are unaffected by this.
+permalink: /daily/:year/:month/:day/:title/
+
+paginate: 20
+paginate_path: /daily/page:num/
 
 minima:
   skin: dark
@@ -21,3 +24,10 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

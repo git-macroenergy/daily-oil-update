@@ -1,0 +1,241 @@
+---
+---
+
+@import "minima";
+
+$brand-navy: #070c42;
+$brand-lavender: #acb1e3;
+$brand-lavender-light: #d5d8f0;
+
+// --- Header ---
+.site-header {
+  background-color: $brand-navy;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+}
+
+.site-logo {
+  height: 32px;
+  width: auto;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.site-tagline {
+  display: block;
+  font-size: 12px;
+  font-weight: 400;
+  color: $brand-lavender;
+  margin-left: 42px;
+  margin-top: -2px;
+}
+
+.site-nav .page-link {
+  color: $brand-lavender !important;
+  cursor: pointer;
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff !important;
+}
+
+.site-nav .menu-icon > svg path {
+  fill: $brand-lavender;
+}
+
+.trigger {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+// --- Dropdown nav ---
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-dropdown .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  min-width: 240px;
+  z-index: 20;
+  padding: 6px 0;
+}
+
+.nav-dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 8px 16px;
+  color: $brand-navy !important;
+  font-size: 14px;
+  white-space: normal;
+}
+
+.dropdown-menu a:hover {
+  background-color: $brand-lavender-light;
+}
+
+@media screen and (max-width: 600px) {
+  .nav-dropdown .dropdown-menu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding-left: 12px;
+  }
+  .nav-dropdown:hover .dropdown-menu,
+  .nav-dropdown .dropdown-menu {
+    display: block;
+  }
+}
+
+// --- Body links & headings ---
+a { color: $brand-navy; }
+a:visited { color: $brand-navy; }
+a:hover { color: darken($brand-lavender, 15%); }
+
+h1, h2, h3 { color: $brand-navy; }
+
+// --- Legacy migrated content ---
+.legacy-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 12px 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  background: #ffffff;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 14px;
+}
+
+th {
+  background-color: $brand-navy;
+  color: #ffffff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+caption {
+  caption-side: top;
+  font-size: 1.3em;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: $brand-navy;
+}
+
+// --- Footer ---
+.site-footer {
+  background-color: $brand-navy;
+  border-top: none;
+  color: $brand-lavender-light;
+}
+
+.site-footer a { color: $brand-lavender-light; }
+.site-footer .footer-heading { color: #ffffff; }
+
+// --- Search page ---
+.search-wrap {
+  max-width: 700px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 18px;
+  border: 2px solid $brand-navy;
+  border-radius: 6px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.tag-cloud {
+  margin-bottom: 20px;
+}
+
+.tag-pill {
+  display: inline-block;
+  background-color: $brand-lavender-light;
+  color: $brand-navy;
+  border: none;
+  border-radius: 999px;
+  padding: 5px 12px;
+  margin: 0 6px 6px 0;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.tag-pill:hover {
+  background-color: $brand-lavender;
+}
+
+#results-count {
+  color: #666;
+  font-size: 14px;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+}
+
+.search-results li {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 14px 0;
+}
+
+.result-title {
+  font-size: 19px;
+  font-weight: 600;
+  color: $brand-navy;
+  margin-right: 10px;
+}
+
+.result-date {
+  font-size: 13px;
+  color: #888;
+}
+
+.result-excerpt {
+  margin: 6px 0;
+  color: #444;
+}
+
+.result-tag {
+  display: inline-block;
+  font-size: 12px;
+  color: $brand-navy;
+  background-color: $brand-lavender-light;
+  border-radius: 999px;
+  padding: 2px 8px;
+  margin: 0 4px 4px 0;
+}
