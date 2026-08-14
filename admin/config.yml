@@ -1,0 +1,120 @@
+backend:
+  name: github
+  repo: yourusername/macroenergy-main   # <-- change to your actual GitHub username/repo
+  branch: main
+
+media_folder: "assets/images/legacy"
+public_folder: "/assets/images/legacy"
+
+publish_mode: simple
+
+collections:
+  - name: "home"
+    label: "Home Page"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "index.markdown"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
+          - { label: "Section", name: "section", widget: "hidden", default: "" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "updates"
+    label: "Updates"
+    folder: "pages/updates"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /updates/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "updates" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "insights"
+    label: "Insights"
+    folder: "pages/insights"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /insights/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "insights" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "oil"
+    label: "Oil"
+    folder: "pages/oil"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /oil/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "oil" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "gas"
+    label: "Gas"
+    folder: "pages/gas"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /gas/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "gas" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "renewables"
+    label: "Renewables"
+    folder: "pages/renewables"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /renewables/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "renewables" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "knowledge-base"
+    label: "Knowledge Base"
+    folder: "pages/knowledge-base"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /knowledge-base/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "knowledge-base" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "archives"
+    label: "Archives"
+    folder: "pages/page/archives"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "e.g. /page/archives/my-new-post/" }
+      - { label: "Section", name: "section", widget: "hidden", default: "page/archives" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "contact"
+    label: "Contact Page"
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "pages/page/contact.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/page/contact/" }
+          - { label: "Section", name: "section", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
