@@ -151,6 +151,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "items": [
+        {
+          "headline": "Ukraine's Drone Campaign Is Turning Russia Into a Bigger Crude Exporter, Not a Smaller One",
+          "theme": "russia-refinery-export-paradox",
+          "hashtags": [
+            "RussianOil",
+            "UkraineWar",
+            "CrudeExports",
+            "RefiningCapacity",
+            "OilSupply"
+          ]
+        },
+        {
+          "headline": "OPEC and IEA Just Cut Demand Forecasts for the Fourth Straight Month \u2014 the Supply-Crisis Story Has a Hole in It",
+          "theme": "opec-demand-destruction-fourth-cut",
+          "hashtags": [
+            "OPEC",
+            "OilDemand",
+            "IEA",
+            "CrudeOil",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Chevron's Venezuela Bet Just Crossed 280,000 bpd \u2014 But It's Built on a Signature, Not a Statute",
+          "theme": "venezuela-license-fragility",
+          "hashtags": [
+            "Venezuela",
+            "Chevron",
+            "PDVSA",
+            "OilSupply",
+            "EnergyPolicy"
+          ]
+        }
+      ]
     }
   ]
 }
