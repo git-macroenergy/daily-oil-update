@@ -57,7 +57,7 @@ def call_claude(prompt: str) -> str:
 
     body = {
         "model": MODEL,
-        "max_tokens": 4000,
+        "max_tokens": 8000,
         "messages": [{"role": "user", "content": prompt}],
         "tools": [{"type": "web_search_20250305", "name": "web_search"}],
     }
