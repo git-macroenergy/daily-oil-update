@@ -189,6 +189,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-15",
+      "items": [
+        {
+          "headline": "ADNOC Just Became Iraq's Oil Lifeline \u2014 And Iran Immediately Punished It For That",
+          "theme": "adnoc-iraq-shuttle-target",
+          "hashtags": [
+            "ADNOC",
+            "Iraq",
+            "StraitOfHormuz",
+            "OilExports",
+            "TankerAttacks"
+          ]
+        },
+        {
+          "headline": "Bessent's 'Economic Isolation' Pivot Just Told Oil Markets: Stop Waiting for a Hormuz Deal",
+          "theme": "iran-economic-siege-pivot",
+          "hashtags": [
+            "Iran",
+            "Sanctions",
+            "StraitOfHormuz",
+            "OilGeopolitics",
+            "CrudeOil"
+          ]
+        },
+        {
+          "headline": "Diesel Just Hit a Record No August Has Ever Seen \u2014 And a Hormuz Deal Won't Undo It",
+          "theme": "post-hormuz-refining-capacity-trap",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "FuelPrices",
+            "OilRefining",
+            "EnergyMarkets"
+          ]
+        }
+      ]
     }
   ]
 }
