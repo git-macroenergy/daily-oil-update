@@ -40,6 +40,7 @@ $brand-lavender-light: #d5d8f0;
 
 .site-nav .page-link {
   color: $brand-lavender !important;
+  cursor: pointer;
 }
 
 .site-nav .page-link:hover {
@@ -50,22 +51,105 @@ $brand-lavender-light: #d5d8f0;
   fill: $brand-lavender;
 }
 
+.trigger {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+// --- Dropdown nav ---
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-dropdown .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  min-width: 240px;
+  z-index: 20;
+  padding: 6px 0;
+}
+
+.nav-dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 8px 16px;
+  color: $brand-navy !important;
+  font-size: 14px;
+  white-space: normal;
+}
+
+.dropdown-menu a:hover {
+  background-color: $brand-lavender-light;
+}
+
+@media screen and (max-width: 600px) {
+  .nav-dropdown .dropdown-menu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding-left: 12px;
+  }
+  .nav-dropdown:hover .dropdown-menu,
+  .nav-dropdown .dropdown-menu {
+    display: block;
+  }
+}
+
 // --- Body links & headings ---
-a {
-  color: $brand-navy;
+a { color: $brand-navy; }
+a:visited { color: $brand-navy; }
+a:hover { color: darken($brand-lavender, 15%); }
+
+h1, h2, h3 { color: $brand-navy; }
+
+// --- Legacy migrated content ---
+.legacy-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 12px 0;
 }
 
-a:visited {
-  color: $brand-navy;
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  background: #ffffff;
 }
 
-a:hover {
-  color: darken($brand-lavender, 15%);
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 14px;
 }
 
-.post-list h3 a,
-.post-title,
-h1, h2, h3 {
+th {
+  background-color: $brand-navy;
+  color: #ffffff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+caption {
+  caption-side: top;
+  font-size: 1.3em;
+  margin-bottom: 10px;
+  font-weight: bold;
   color: $brand-navy;
 }
 
@@ -76,14 +160,8 @@ h1, h2, h3 {
   color: $brand-lavender-light;
 }
 
-.site-footer a {
-  color: $brand-lavender-light;
-}
-
-.site-footer .footer-heading {
-  color: #ffffff;
-}
-
+.site-footer a { color: $brand-lavender-light; }
+.site-footer .footer-heading { color: #ffffff; }
 
 // --- Search page ---
 .search-wrap {
@@ -161,4 +239,3 @@ h1, h2, h3 {
   padding: 2px 8px;
   margin: 0 4px 4px 0;
 }
-
