@@ -15,7 +15,7 @@ Understand and explore the vast world of macro energy, encompassing the study of
 
 Visit our daily feed at
 
-daily.macroenergy.net
+macroenergy.net/daily
 
 Latest Updates:
 
