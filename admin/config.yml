@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: yourusername/macroenergy-main   # <-- change to your actual GitHub username/repo
+  repo: git-macroenergy/daily-oil-update #yourusername/macroenergy-main   # <-- change to your actual GitHub username/repo
   branch: main
+  base_url: https://bright-pony-7a1e0e.netlify.app/
+  auth_endpoint: auth
 
 media_folder: "assets/images/legacy"
 public_folder: "/assets/images/legacy"
