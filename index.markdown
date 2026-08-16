@@ -18,19 +18,13 @@ Understand and explore the vast world of macro energy, encompassing the study of
 
 ## Latest Updates
 
-\- [Which refineries are impacted by strikes in the Iran war?](/updates/which-refineries-are-impacted-by-strikes-in-the-iran-war/)
-
-\- [The Hormuz Handshake: Regional Oil Product Outlook](/updates/the-hormuz-handshake-regional-oil-product-outlook/)
-
-\- [Why Diesel is Crushing Gasoline in the 2026 Gulf Crisis](/updates/why-diesel-is-crushing-gasoline-in-the-great-2026-gulf-flare-up/)
-
-\- [Refined Oil Products: Global Shock from the Strait of Hormuz Blockage](/updates/refined-oil-products-and-the-global-shock-from-the-strait-of-hormuz/)
-
-\- [Venezuelan Crude Pivot: A Giant Awakens](/updates/venezuelan-crude-pivot-a-giant-awakens/)
-
-\- [Tariff Wars: No Turning Back](/updates/tariff-wars-no-turning-back/)
-
-\- [Dangote Refinery Faces Profitability Challenges Amidst Crude Supply Concerns](/updates/when-will-dangote-refinery-be-profitable/)
+* #### [Which refineries are impacted by strikes in the Iran war?](/updates/which-refineries-are-impacted-by-strikes-in-the-iran-war/)
+* #### [The Hormuz Handshake: Regional Oil Product Outlook](/updates/the-hormuz-handshake-regional-oil-product-outlook/)
+* #### [Why Diesel is Crushing Gasoline in the 2026 Gulf Crisis](/updates/why-diesel-is-crushing-gasoline-in-the-great-2026-gulf-flare-up/)
+* #### [Refined Oil Products: Global Shock from the Strait of Hormuz Blockage](/updates/refined-oil-products-and-the-global-shock-from-the-strait-of-hormuz/)
+* #### [Venezuelan Crude Pivot: A Giant Awakens](/updates/venezuelan-crude-pivot-a-giant-awakens/)
+* #### [Tariff Wars: No Turning Back](/updates/tariff-wars-no-turning-back/)
+* #### [Dangote Refinery Faces Profitability Challenges Amidst Crude Supply Concerns](/updates/when-will-dangote-refinery-be-profitable/)
 
 *Whether you're an industry professional, researcher, policymaker, or simply an individual curious about the complexities of energy on a global scale, our services provide an authoritative hub for reliable information, actionable insights, and thought-provoking discussions.*
 
