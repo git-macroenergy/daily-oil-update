@@ -227,6 +227,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-16",
+      "items": [
+        {
+          "headline": "CENTCOM Just Built a Permanent Drone War Command. That's Not a Sign the Oil Crisis Ends Soon.",
+          "theme": "centcom-falcon-strike-permanent-footing",
+          "hashtags": [
+            "Hormuz",
+            "OilGeopolitics",
+            "CrudeOil",
+            "MiddleEast",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Russia's Spare Oil Capacity Isn't Shut In Anymore \u2014 It's Being Permanently Retired",
+          "theme": "russia-spare-capacity-permanent-loss",
+          "hashtags": [
+            "RussianOil",
+            "OilSupply",
+            "Sanctions",
+            "CrudeSupply",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "The Jones Act Waiver Just Turned 240 Days Old \u2014 and California Is the Only Real Winner",
+          "theme": "jones-act-waiver-california-favoritism",
+          "hashtags": [
+            "JonesAct",
+            "FuelSupply",
+            "CaliforniaEnergy",
+            "OilRefining",
+            "ShippingPolicy"
+          ]
+        }
+      ]
     }
   ]
 }
