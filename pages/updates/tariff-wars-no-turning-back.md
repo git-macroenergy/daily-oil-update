@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Tariff wars - No turning back"
-permalink: "/updates/tariff-wars-no-turning-back/"
-section: "updates"
+title: Tariff wars - No turning back
+permalink: /updates/tariff-wars-no-turning-back/
+section: updates
 ---
-
-Tariff wars - No turning back
-
 April 10, 2015
 
-by Ron Hanes
+*by Ron Hanes*
 
 Recent developments in U.S. trade policy have reignited global concerns about escalating tariff wars and their broader economic implications. On April 2, 2025, President Donald Trump announced a universal 10% tariff on all imports, with additional higher tariffs targeting specific countries. China faced an additional 34% tariff, bringing the total to 44%, while the European Union and Japan were subjected to 20% and 24% tariffs, respectively.
 
@@ -19,192 +16,76 @@ These tit-for-tat measures have led to significant market volatility. The S&P 50
 
 These developments underscore the delicate balance of international trade relations and the potential consequences of protectionist policies. As nations navigate these turbulent waters, the principles of game theory, particularly the Nash Equilibrium, offer valuable insights into the challenges of achieving cooperative outcomes in a competitive global landscape.
 
-A
+#### Pause or Reversal Won’t Undo the Damage
 
-Pause or Reversal Won’t Undo the Damage
+Even with the 90-day pause, the deep damage has alreadybeen done.
 
-Even with the
+Trust is broken: Countries and companies now expectsudden trade disruptions.
 
-90-day pause
+Investment stalls: Firms hesitate to build factories inunstable environments.
 
-, the deep damage has already been done:
+Supply chains reroute: Companies move away from volatilepartners.
 
-Trust is broken:
+Political risk soars: Insurance costs for global traderise dramatically.
 
-Countries and companies now
+Even if leaders reverse today’s tariffs, the memory ofthis shock reshapes behavior for years.
 
-expect
+#### What Is the Nash Equilibrium Again?
 
-sudden trade disruptions.
+##### Quick Lesson:
 
-Investment stalls:
-
-Firms hesitate to build factories in unstable environments.
-
-Supply chains reroute:
-
-Companies move away from volatile partners.
-
-Political risk soars:
-
-Insurance costs for global trade rise dramatically.
-
-Even if leaders reverse today's tariffs, the memory of this shock
-
-reshapes behavior
-
-for years.
-
-What Is the Nash Equilibrium Again?
-
-Quick Lesson:
-
-The Nash Equilibrium explains how, in competitive scenarios, individuals (or countries) often end up stuck in a bad outcome —
-
-not because they want to, but because they’re protecting themselves
-
-.
+The Nash Equilibrium explains how, in competitivescenarios, individuals (or countries) often end up stuck in a bad outcome—notbecause they want to, but because they’re protecting themselves.
 
 In trade:
 
-If both countries cooperate (
+•    If bothcountries cooperate (lower tariffs), both win.
 
-lower tariffs
+•    If one cheatswhile the other stays open, the cheater gains.
 
-), both win.
-
-If one cheats while the other stays open, the cheater gains.
-
-But if both retaliate (
-
-tariffs vs tariffs
-
-),
-
-both lose
-
-— higher prices, slower growth, mutual pain.
+•    But if bothretaliate (tariffs vs. tariffs), both lose—higher prices, slower growth,and mutual pain.
 
 The Latest Tariff Escalation: How We Got Here
 
-Timeline:
+#### Timeline:
 
-April 2, 2025
+April 2, 2025 — Trump imposes a universal 10% tariff,with extra charges for China, the EU, and Japan.
 
-— Trump imposes universal 10% tariff, with extra charges for China, EU, and Japan.
+April 4, 2025 — China retaliates with 10–15% tariffs onU.S. oil and gas.
 
-April 4, 2025
+April 8, 2025 — Trump hikes China tariffs to 104% andtargets low-cost parcels.
 
-— China retaliates: 10-15% tariffs on U.S. oil and gas.
+April 9, 2025 — Trump pauses tariffs for most countriesfor 90 days, but raises China tariffs to 125%.
 
-April 8, 2025
+Trump to critics: “Yippy critics” can “watch the stockrebound!”
 
-— Trump hikes China tariffs to
+Markets soared briefly—the S&P 500 jumped 9.5%, oneof its largest single-day gains since WWII. But beneath the rally, fearssimmer.
 
-104%
 
-, targets low-cost parcels.
 
-April 9, 2025
+<img src="/assets/images/legacy/6d8512f5bd9e2588907a01984b4e0a2a.jpg" alt="Tariff wars - No turning back" class="legacy-img"  style="float: right; width: 50%; height: auto; margin: 0 0 10px 20px;">
 
-— Trump pauses tariffs for most countries for
+#### The Forecast: What’s Next?
 
-90 days
+If escalation continues: - Global growth slowsdramatically. - Supply chains fragment permanently. - Geopolitical rivalriesharden.
 
-, but raises China tariffs to
+If cooperation returns: - A fragile recovery becomespossible. - New, binding trade agreements are needed, with clear enforcementmechanisms. - Rebuilding trust becomes the core global project.
 
-125%
+###### Critical Point:
 
-.
+Without trust, every trade deal will be seen as temporary—andcompanies will bake in “tariff risk” forever.
 
-Trump to critics: "Yippy critics" can "watch the stock rebound!"
+### Conclusion: Cooperation, Not Combat
 
-Markets soared briefly — the
+Global trade isn’t a zero-sum game. It’s interdependence.
 
-S&P 500 jumped 9.5%
+Protectionism sounds powerful, but ultimately it leaveseveryone poorer and more vulnerable.
 
-, one of its largest single-day gains since WWII. But beneath the rally, fears simmer.
+The real “winning move” is escaping the Nash trap:
 
-The Forecast: What's Next?
+•    Build credible institutions.
 
-📉
+•    Foster transparent negotiations.
 
-If escalation continues:
+•    Lock in mutual incentives to cooperate.
 
-Global growth slows dramatically.
-
-Supply chains fragment permanently.
-
-Geopolitical rivalries harden.
-
-📈
-
-If cooperation returns:
-
-Fragile recovery possible.
-
-Need new,
-
-binding trade agreements
-
-with clear enforcement mechanisms.
-
-Rebuilding
-
-trust
-
-becomes the core global project.
-
-🚨
-
-Critical Point:
-
-Without trust, every trade deal will be seen as temporary — and companies will bake in "tariff risk" forever.
-
-Conclusion: Cooperation, Not Combat
-
-🌎 Global trade isn’t a
-
-zero-sum game
-
-. It’s
-
-interdependence
-
-.
-
-Protectionism
-
-sounds powerful, but ultimately it leaves
-
-everyone poorer and more vulnerable
-
-.
-
-The real "winning move" is escaping the Nash trap:
-
-Build
-
-credible institutions
-
-.
-
-Foster
-
-transparent negotiations
-
-.
-
-Lock in
-
-mutual incentives to cooperate
-
-.
-
-Otherwise? Today's tariff war will be
-
-tomorrow’s new normal
-
-.
-
-<img src="/assets/images/legacy/6d8512f5bd9e2588907a01984b4e0a2a.jpg" alt="Tariff wars - No turning back" class="legacy-img">
+Otherwise, today’s tariff war will be tomorrow’s new normal.
