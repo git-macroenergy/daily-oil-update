@@ -1,11 +1,9 @@
 ---
 layout: page
-title: MacroEnergy
+title: Energy Systems Analysis
 permalink: /
 section: ""
 ---
-# \## Energy Systems Analysis
-
 Global energy systems are yet to evolve, transitioning from a heavy reliance on fossil fuels to a more diverse mix of renewable energy sources, such as solar and wind power.
 
 Join us on this enlightening journey as we delve into the multifaceted aspects of macro energy, unraveling its impact, challenges, and opportunities for a sustainable energy future.
