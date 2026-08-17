@@ -265,6 +265,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "headline": "The Hormuz Ceasefire Just Expired. The Real News Is Zero Ships Crossed Sunday.",
+          "theme": "hormuz-ceasefire-lapse-zero-traffic",
+          "hashtags": [
+            "StraitOfHormuz",
+            "HormuzCeasefire",
+            "OilSupply",
+            "CrudeOil",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Trump Wants to Own the Strait of Hormuz. Iran and Oman May Just Reopen It Without Him.",
+          "theme": "iran-oman-bypass-deal",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "Oman",
+            "OilGeopolitics",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "A Single Tanker's War-Risk Insurance Now Costs More Than $20 Million a Voyage",
+          "theme": "war-risk-insurance-tax",
+          "hashtags": [
+            "TankerInsurance",
+            "StraitOfHormuz",
+            "ShippingCosts",
+            "CrudeOil",
+            "FreightRates"
+          ]
+        }
+      ]
     }
   ]
 }
