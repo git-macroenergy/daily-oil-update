@@ -303,6 +303,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-18",
+      "items": [
+        {
+          "headline": "Aramco Just Cut Prices to the Lowest Since 2020 \u2014 Because Asian Refiners Are Refusing to Sail Through the Red Sea",
+          "theme": "aramco-yanbu-pickup-revolt",
+          "hashtags": [
+            "Aramco",
+            "RedSea",
+            "SUMED",
+            "OilLogistics",
+            "CrudeOil"
+          ]
+        },
+        {
+          "headline": "India's State Oil Giant Just Got Cleared Back Into Venezuela \u2014 It's a Hedge, Not a Rescue Bet on Caracas",
+          "theme": "ongc-venezuela-license-diversification",
+          "hashtags": [
+            "ONGC",
+            "Venezuela",
+            "India",
+            "OilSupply",
+            "EnergyPolicy"
+          ]
+        },
+        {
+          "headline": "A Fuel Oil Cargo From Malaysia Just Sailed to California \u2014 the Feedstock Map Doesn't Look Like 2023 Anymore",
+          "theme": "malaysia-fuel-oil-west-coast-arbitrage",
+          "hashtags": [
+            "FuelOil",
+            "RefineryFeedstock",
+            "WestCoast",
+            "GlobalTrade",
+            "RefiningMargins"
+          ]
+        }
+      ]
     }
   ]
 }
