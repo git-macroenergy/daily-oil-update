@@ -341,6 +341,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "items": [
+        {
+          "headline": "Aramco Just Sailed Three VLCCs Back Into the Strait It Spent Weeks Avoiding",
+          "theme": "aramco-hormuz-return",
+          "hashtags": [
+            "SaudiAramco",
+            "StraitOfHormuz",
+            "CrudeOil",
+            "OilLogistics",
+            "RedSea"
+          ]
+        },
+        {
+          "headline": "Iran's Hormuz Toll Booth Just Got Its First Fatal Enforcement Action",
+          "theme": "hormuz-toll-enforcement-turns-lethal",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "TankerAttacks",
+            "MaritimeSecurity",
+            "WarRiskInsurance"
+          ]
+        },
+        {
+          "headline": "UPDATE: Jazan Just Took a Third Hit \u2014 What Changed Since the Second Strike",
+          "theme": "jazan-third-strike-update",
+          "hashtags": [
+            "SaudiAramco",
+            "Jazan",
+            "RefineryOutage",
+            "HouthiAttacks",
+            "DieselMarket"
+          ]
+        }
+      ]
     }
   ]
 }
