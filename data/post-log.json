@@ -379,6 +379,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "items": [
+        {
+          "headline": "Trump Threatened to Bomb Oman Over Its Hormuz Deal With Iran \u2014 the 'Quiet Bypass' Just Got Loud",
+          "theme": "trump-oman-bombing-threat-hormuz-deal",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Oman",
+            "Iran",
+            "UAE",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "US Refiners Are Skipping Turnarounds to Chase Record Margins \u2014 One Bad Trip Wipes Out the Cushion",
+          "theme": "refiner-deferred-maintenance-breakout-risk",
+          "hashtags": [
+            "RefiningMargins",
+            "DieselMarket",
+            "RefineryOutage",
+            "FuelSupply",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Iran Just Stopped Boarding Tankers and Started Just Taking Them",
+          "theme": "iran-tanker-seizure-qeshm-enforcement",
+          "hashtags": [
+            "StraitOfHormuz",
+            "TankerSeizure",
+            "Iran",
+            "MaritimeSecurity",
+            "OilLogistics"
+          ]
+        }
+      ]
     }
   ]
 }
