@@ -417,6 +417,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "items": [
+        {
+          "headline": "Iran's 'Zero Oil Exports' Claim Isn't True Yet \u2014 It Could Be by Late September",
+          "theme": "iran-floating-storage-drawdown",
+          "hashtags": [
+            "Iran",
+            "OilExports",
+            "StraitOfHormuz",
+            "Sanctions",
+            "CrudeOil"
+          ]
+        },
+        {
+          "headline": "UPDATE: Bessent's Iran Isolation Threat Now Has a Monday Deadline \u2014 and a China-Sized Price Tag",
+          "theme": "iran-economic-siege-pivot-monday-deadline",
+          "hashtags": [
+            "Iran",
+            "Sanctions",
+            "China",
+            "StraitOfHormuz",
+            "CrudeOil"
+          ]
+        },
+        {
+          "headline": "China Is Out-Bidding India for Russian Crude \u2014 India's Imports Just Hit a War-Era Low",
+          "theme": "china-india-russian-crude-diesel-squeeze",
+          "hashtags": [
+            "RussianOil",
+            "India",
+            "China",
+            "CrudeSupply",
+            "DieselMarket"
+          ]
+        }
+      ]
     }
   ]
 }
