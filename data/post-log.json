@@ -455,6 +455,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-22",
+      "items": [
+        {
+          "headline": "Ukraine Just Redirected Its Drone War Back to Refineries \u2014 And Rosneft's Bashneft Complex Took the Hit",
+          "theme": "ukraine-refinery-campaign-restart",
+          "hashtags": [
+            "RussianOil",
+            "UkraineWar",
+            "RefineryOutage",
+            "DieselMarket",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "Orlen Just Locked In a Quarter of Its Crude From Norway \u2014 Europe's Quiet Hedge Against Hormuz Has a Name",
+          "theme": "equinor-orlen-north-sea-hedge",
+          "hashtags": [
+            "Equinor",
+            "Orlen",
+            "CrudeSupply",
+            "NorthSea",
+            "EuropeanRefining"
+          ]
+        },
+        {
+          "headline": "Dangote Isn't Just Building a Kenya Refinery \u2014 He's Handing Governments Equity So They Can't Undercut Him",
+          "theme": "dangote-east-africa-equity-play",
+          "hashtags": [
+            "Dangote",
+            "Refining",
+            "EastAfrica",
+            "IPO",
+            "OilProducts"
+          ]
+        }
+      ]
     }
   ]
 }
