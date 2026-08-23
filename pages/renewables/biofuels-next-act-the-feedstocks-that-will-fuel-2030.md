@@ -10,9 +10,9 @@ The next five years will be less about simply producing more biofuels and more a
 
 Global liquid biofuel demand is expected to reach around **215 billion litres a year by 2030** in the IEA’s base case, with aviation and shipping accounting for more than 75% of new demand.
 
-|     |     |                                                                                
-| --- | --- |
-| That changes the feedstock equation. The industry can no longer rely on simply expanding conventional crops. Vegetable oils, used cooking oil and animal fats are already being pulled into competing markets, while demand for biofuels is growing faster than many feedstock supplies. | ![Biofuel sources](assets/images/legacy/biofuel-sources.png "Biofuel sources") |
+That changes the feedstock equation. The industry can no longer rely on simply expanding conventional crops. Vegetable oils, used cooking oil and animal fats are already being pulled into competing markets, while demand for biofuels is growing faster than many feedstock supplies.
+
+ ![Biofuel sources](/assets/images/legacy/biofuel-sources.png "Biofuel sources") 
 
 The result will be a two-speed market: **conventional feedstocks will provide most of the volume through 2030, while wastes, residues and new technologies become increasingly important at the margin.**
 
