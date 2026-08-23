@@ -493,6 +493,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "items": [
+        {
+          "headline": "Iranian Light Crude Just Flipped From a $3.50 Discount to a $3.50 Premium in One Week",
+          "theme": "china-teapot-iranian-feedstock-crunch",
+          "hashtags": [
+            "China",
+            "TeapotRefiners",
+            "IranianOil",
+            "CrudeSupply",
+            "RefiningMargins"
+          ]
+        },
+        {
+          "headline": "US Diesel Needs Just 6% More to Break Its All-Time Price Record \u2014 Gasoline Needs 23%",
+          "theme": "diesel-record-price-proximity",
+          "hashtags": [
+            "DieselMarket",
+            "DistillateInventories",
+            "RefiningMargins",
+            "FuelPrices",
+            "TruckingCosts"
+          ]
+        },
+        {
+          "headline": "The Strategic Petroleum Reserve Just Hit Its Lowest Level Since 1983 \u2014 With No Refill Plan in Sight",
+          "theme": "spr-44-year-low-no-cushion",
+          "hashtags": [
+            "StrategicPetroleumReserve",
+            "SPR",
+            "OilSupply",
+            "EnergyPolicy",
+            "CrudeOil"
+          ]
+        }
+      ]
     }
   ]
 }
