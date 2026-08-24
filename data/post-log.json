@@ -531,6 +531,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "items": [
+        {
+          "headline": "UPDATE: Hormuz Traffic Just Spiked to 40 Tankers in One Night \u2014 But It Fell Back to 13 the Next Day",
+          "theme": "hormuz-traffic-surge-volatility",
+          "hashtags": [
+            "StraitOfHormuz",
+            "OilSupply",
+            "CrudeOil",
+            "TankerTraffic",
+            "EnergyMarkets"
+          ]
+        },
+        {
+          "headline": "DOE's Fix for Record Gas Prices Isn't More Barrels \u2014 Refiners Are Already at 96.2% Capacity",
+          "theme": "doe-throughput-gambit-midterms",
+          "hashtags": [
+            "GasolinePrices",
+            "RefiningMargins",
+            "EPA",
+            "Midterms2026",
+            "EnergyPolicy"
+          ]
+        },
+        {
+          "headline": "Iran Just Shut Down a Western Power Plant Without Firing a Shot \u2014 Refiners Should Be Watching",
+          "theme": "iran-cyber-energy-infrastructure-pivot",
+          "hashtags": [
+            "Cybersecurity",
+            "EnergyInfrastructure",
+            "Iran",
+            "CriticalInfrastructure",
+            "RefineryOutage"
+          ]
+        }
+      ]
     }
   ]
 }
