@@ -569,6 +569,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-26",
+      "items": [
+        {
+          "headline": "Iran Sanctions Just Landed 'Soft' \u2014 Oil Crashed 7%, But Diesel Didn't Move a Cent",
+          "theme": "iran-sanctions-soft-landing-diesel-decouple",
+          "hashtags": [
+            "Iran",
+            "Sanctions",
+            "DieselMarket",
+            "CrudeOil",
+            "RefiningMargins"
+          ]
+        },
+        {
+          "headline": "Shell's $8 Billion Chemicals Fire Sale Is a Verdict on the Plastics Cycle, Not Just a Balance Sheet Move",
+          "theme": "shell-chemicals-fire-sale-consolidation",
+          "hashtags": [
+            "Shell",
+            "ExxonMobil",
+            "LyondellBasell",
+            "Petrochemicals",
+            "M&A"
+          ]
+        },
+        {
+          "headline": "Russia's Refining Capacity Just Hit a 24-Year Low \u2014 and Its Belarusian Backup Is About to Go Offline Too",
+          "theme": "russia-refining-collapse-belarus-timing-risk",
+          "hashtags": [
+            "RussianOil",
+            "UkraineWar",
+            "RefineryOutage",
+            "FuelCrisis",
+            "DieselMarket"
+          ]
+        }
+      ]
     }
   ]
 }
