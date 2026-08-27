@@ -607,6 +607,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "items": [
+        {
+          "headline": "Iran's New Hormuz Deal With Oman Doesn't Reopen the Strait \u2014 It Scraps the Route the US Built",
+          "theme": "iran-oman-corridor-replaces-us-route",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "Oman",
+            "OilGeopolitics",
+            "TankerTraffic"
+          ]
+        },
+        {
+          "headline": "Asian Refiners Are About to Double Their US Crude Buys \u2014 Right as Canada's Oil Sands Go Down for Maintenance",
+          "theme": "us-refiner-canada-asia-squeeze",
+          "hashtags": [
+            "CrudeSupply",
+            "OilSands",
+            "RefiningMargins",
+            "DieselMarket",
+            "MidwestRefining"
+          ]
+        },
+        {
+          "headline": "Putin Just Declared Peace Talks Dead \u2014 Russia's Diesel Export Ban Isn't Going Anywhere Either",
+          "theme": "putin-escalation-diesel-ban-extension",
+          "hashtags": [
+            "RussianOil",
+            "UkraineWar",
+            "DieselMarket",
+            "OilGeopolitics",
+            "FuelSupply"
+          ]
+        }
+      ]
     }
   ]
 }
