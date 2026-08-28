@@ -645,6 +645,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "items": [
+        {
+          "headline": "Kazakhstan Just Cut Its Own Oil Target Because of Drone Strikes \u2014 Chevron and Exxon Eat the Loss",
+          "theme": "kazakhstan-cpc-output-cut-shareholder-exposure",
+          "hashtags": [
+            "Kazakhstan",
+            "CPC",
+            "Chevron",
+            "ExxonMobil",
+            "OilSupply"
+          ]
+        },
+        {
+          "headline": "Gulf Oil Exports Just Hit Two-Thirds of Pre-War Levels \u2014 Trump Just Killed the Deal That Could Finish the Job",
+          "theme": "gulf-export-recovery-caps-price-us-shuns-deal",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "CrudeOil",
+            "GoldmanSachs",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "Europe's Diesel Crack Just Fell $17 a Barrel \u2014 California Won't Feel It for Another Month",
+          "theme": "regional-diesel-crack-divergence-california-lag",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "California",
+            "WestCoastRefining",
+            "FuelSupply"
+          ]
+        }
+      ]
     }
   ]
 }
