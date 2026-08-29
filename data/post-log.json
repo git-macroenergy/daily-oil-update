@@ -683,6 +683,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-29",
+      "items": [
+        {
+          "headline": "Venezuela's OPEC Exit Isn't the Real Story \u2014 a 100-Year U.S. Oil Lease Is",
+          "theme": "venezuela-opec-exit-us-stake-lease",
+          "hashtags": [
+            "Venezuela",
+            "OPEC",
+            "Chevron",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "South Africa's Only Inland Refinery Just Went Down \u2014 OR Tambo Has Days, Not Weeks, of Jet Fuel Cover",
+          "theme": "natref-jet-fuel-outage-or-tambo",
+          "hashtags": [
+            "Natref",
+            "Sasol",
+            "JetFuel",
+            "RefineryOutage",
+            "SouthAfrica"
+          ]
+        },
+        {
+          "headline": "Brussels Wants a Windfall Tax on Refiners This Time, Not Just Producers",
+          "theme": "eu-windfall-tax-refiner-margins-dublin",
+          "hashtags": [
+            "EU",
+            "WindfallTax",
+            "RefiningMargins",
+            "DieselMarket",
+            "EnergyPolicy"
+          ]
+        }
+      ]
     }
   ]
 }
