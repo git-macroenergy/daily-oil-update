@@ -721,6 +721,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-30",
+      "items": [
+        {
+          "headline": "DOJ Wants to Turn Seized Iranian Tankers Into Treasury Revenue \u2014 Using a Law Dormant Since the 1800s",
+          "theme": "iran-tanker-prize-law-monetization",
+          "hashtags": [
+            "Iran",
+            "StraitOfHormuz",
+            "OilSanctions",
+            "MaritimeLaw",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "US Oil Rigs Just Fell Again \u2014 Even as Diamondback Crossed 1 Million Barrels a Day and Doubled Its Buyback",
+          "theme": "shale-capital-discipline-over-rigs",
+          "hashtags": [
+            "Permian",
+            "ShaleOil",
+            "RigCount",
+            "CapitalDiscipline",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "Kuwait's Ports Lost 86% of Their Traffic in the War \u2014 Singapore and Malaysia Are the Ones Who Gained It",
+          "theme": "hormuz-war-redraws-shipping-map",
+          "hashtags": [
+            "StraitOfHormuz",
+            "TankerTraffic",
+            "RussianOil",
+            "Singapore",
+            "GlobalShipping"
+          ]
+        }
+      ]
     }
   ]
 }
