@@ -10,13 +10,11 @@ Published 31 August 2026
 
 *A war-driven closure of the Strait of Hormuz has pushed both diesel and natural gas prices to multi-year extremes at once. That's an unusual setup for fuel switching, and it means the answer splits sharply by geography: strong incentive to shift toward gas in the United States, and something closer to the opposite in Europe and Asia.*
 
-
-
 Every winter, some slice of industry that can burn either diesel-range fuel or natural gas watches the price spread between the two and dispatches accordingly. Power plants with dual-fuel turbines, industrial boilers, marine engines and backup generators all have this flexibility built in, and normally the direction of the switch is easy to predict from the price ratio alone. This winter is not normal. The same geopolitical shock — the closure of the Strait of Hormuz since early March 2026 — has driven up the price of *both* fuels simultaneously, but through different channels and by very different amounts depending on where you're standing. The result is a genuine divergence: American industry has one of the widest diesel-over-gas cost gaps in years and real reason to lean on gas; European and Asian buyers, who import both their gas and much of their diesel, are staring at a much flatter spread and, in places, one that still favors burning oil over gas — a faint echo of 2022.
 
 |                                                                             |                                                                             |                                                             |                                                    |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| **−95%**                                                                    | **$5.62**                                                                   | **~$3.0**                                                   | **€65+**                                           |
+| # **−95%**                                                                  | # **$5.62**                                                                 | # **~$3.0**                                                 | # **€65+**                                         |
 | Drop in Strait of Hormuz vessel traffic since the closure began, March 2026 | U.S. average diesel price per gallon, 25 Aug 2026 — 20¢ off the 2022 record | Henry Hub natural gas, $/MMBtu, late Aug 2026 — near normal | European TTF gas, €/MWh, up over 130% year to date |
 
 ## Why both fuels are expensive at once
