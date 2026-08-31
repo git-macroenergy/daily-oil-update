@@ -14,7 +14,7 @@ Every winter, some slice of industry that can burn either diesel-range fuel or n
 
 |                                                                             |                                                                             |                                                             |                                                    |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| # **−95%**                                                                  | # **$5.62**                                                                 | # **~$3.0**                                                 | # **€65+**                                         |
+| **−95%**                                                                    | **$5.62**                                                                   | **~$3.0**                                                   | **€65+**                                           |
 | Drop in Strait of Hormuz vessel traffic since the closure began, March 2026 | U.S. average diesel price per gallon, 25 Aug 2026 — 20¢ off the 2022 record | Henry Hub natural gas, $/MMBtu, late Aug 2026 — near normal | European TTF gas, €/MWh, up over 130% year to date |
 
 ## Why both fuels are expensive at once
