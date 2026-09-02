@@ -759,6 +759,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "headline": "The Gulf War Just Expanded to Four Host Nations \u2014 Kuwait and Bahrain Are the New Targets, Not Just Jordan and the UAE",
+          "theme": "gulf-war-expands-host-nations",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "GulfStates",
+            "OilSupply",
+            "CrudeOil"
+          ]
+        },
+        {
+          "headline": "Diesel Margins Just Broke Their Own Record Again \u2014 Right as Refiners Enter Fall Turnaround Season at 97% Capacity",
+          "theme": "turnaround-season-record-margin-collision",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "RefineryOutage",
+            "FuelSupply",
+            "TurnaroundSeason"
+          ]
+        },
+        {
+          "headline": "Chevron Just Confirmed the Mechanics of Trump's Venezuela Deal \u2014 $7 Billion to Double Output, But Nobody Can Say the Deal Survives the Next Administration",
+          "theme": "chevron-venezuela-orinoco-expansion-confirmed",
+          "hashtags": [
+            "Venezuela",
+            "Chevron",
+            "CrudeSupply",
+            "OilGeopolitics",
+            "OrinocoBelt"
+          ]
+        }
+      ]
     }
   ]
 }
