@@ -797,6 +797,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "headline": "A Weak Tropical Storm Just Found the One Crack in America's Refining System",
+          "theme": "hurricane-season-zero-slack-refining",
+          "hashtags": [
+            "RefiningMargins",
+            "GulfCoast",
+            "GasolinePrices",
+            "RefineryOutage",
+            "HurricaneSeason"
+          ]
+        },
+        {
+          "headline": "Russia's Own Budget Numbers Just Wrote Off Any Oil Recovery Before 2030",
+          "theme": "russia-crude-output-structural-decline",
+          "hashtags": [
+            "RussianOil",
+            "CrudeSupply",
+            "UkraineWar",
+            "OilGeopolitics",
+            "GlobalSupply"
+          ]
+        },
+        {
+          "headline": "India Just Put a Windfall Tax Back on Petrol Exports for the First Time Since Spring",
+          "theme": "india-windfall-tax-petrol-signal",
+          "hashtags": [
+            "WindfallTax",
+            "India",
+            "DieselMarket",
+            "GasolinePrices",
+            "RefiningMargins"
+          ]
+        }
+      ]
     }
   ]
 }
