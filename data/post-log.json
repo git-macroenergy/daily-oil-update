@@ -835,6 +835,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "headline": "Diesel Just Broke the 2022 War-Era Record \u2014 This Time There's No Single Villain to Blame",
+          "theme": "diesel-retail-record-broken",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "TruckingCosts",
+            "RussianOil",
+            "StraitOfHormuz"
+          ]
+        },
+        {
+          "headline": "Israel's Last Restraint on Striking Iran's Oil Facilities Just Got a Public Expiration Date",
+          "theme": "israel-iran-energy-infrastructure-threat",
+          "hashtags": [
+            "Iran",
+            "Israel",
+            "StraitOfHormuz",
+            "OilGeopolitics",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "Georgia's Only Refinery Just Finished Ditching Russian Crude \u2014 the EU's Sanctions Playbook Actually Worked",
+          "theme": "kulevi-refinery-russian-crude-exit-complete",
+          "hashtags": [
+            "EU",
+            "RussianOil",
+            "Sanctions",
+            "Kazakhstan",
+            "RefiningMargins"
+          ]
+        }
+      ]
     }
   ]
 }
