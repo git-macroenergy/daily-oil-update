@@ -873,6 +873,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "items": [
+        {
+          "headline": "A Missile Just Hit a Tanker Six Miles From Kharg Island \u2014 Iran's Only Untouched Oil Lifeline Just Got Closer to the Line",
+          "theme": "kharg-island-tanker-strike",
+          "hashtags": [
+            "Iran",
+            "KhargIsland",
+            "CrudeSupply",
+            "OilGeopolitics",
+            "StraitOfHormuz"
+          ]
+        },
+        {
+          "headline": "Iraq Just Doubled Its Hormuz Oil Flows \u2014 By Getting Iran's Own Blessing to Pass and Discounting the Barrels",
+          "theme": "iraq-hormuz-discount-surge",
+          "hashtags": [
+            "Iraq",
+            "StraitOfHormuz",
+            "SOMO",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "Dangote's $1.5 Billion Refinery IPO Opens in 9 Days \u2014 Priced for a War Premium That Might Not Last",
+          "theme": "dangote-refinery-ipo-timing",
+          "hashtags": [
+            "Dangote",
+            "Nigeria",
+            "RefiningMargins",
+            "JetFuel",
+            "Africa"
+          ]
+        }
+      ]
     }
   ]
 }
