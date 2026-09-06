@@ -911,6 +911,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "headline": "CENTCOM Just Priced Iran's Oil Fleet in Warship Hits \u2014 Three Tankers Per Two Ships Fired On",
+          "theme": "hormuz-tanker-war-kill-ratio-doctrine",
+          "hashtags": [
+            "Iran",
+            "StraitOfHormuz",
+            "TankerWar",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "OPEC+ Meets Today to Hold Output Steady \u2014 the Market Isn't Even Watching",
+          "theme": "opec-plus-decision-loses-market-relevance",
+          "hashtags": [
+            "OPEC",
+            "StraitOfHormuz",
+            "CrudeSupply",
+            "OilPrices",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "China Is Paying War-Premium Crude Prices \u2014 Then Selling the Diesel Back to the World",
+          "theme": "china-refined-product-export-surge",
+          "hashtags": [
+            "China",
+            "RefiningMargins",
+            "DieselMarket",
+            "CrudeSupply",
+            "Asia"
+          ]
+        }
+      ]
     }
   ]
 }
