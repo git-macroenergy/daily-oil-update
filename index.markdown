@@ -19,7 +19,7 @@ Join us on this enlightening journey as we delve into the multifaceted aspects o
 </div>
 
 ## Latest Updates
-
+* #### [Will China Step Up in Q4 2026 to Solve the Diesel Shortage Again?](Chinese-diesel-exports-Q4-2026)
 * #### [Diesel is breaking records and gas is spiking too — switching economics winter 2027?](/diesel-gas-switching-2026)
 * #### [Biofuels Next Act: The Feedstocks That Will Fuel 2030](https://macroenergy.net/renewables/feedstocks-that-will-fuel-2030)
 * #### [Which refineries are impacted by strikes in the Iran war?](/updates/which-refineries-are-impacted-by-strikes-in-the-iran-war/)
