@@ -4,6 +4,10 @@ title: Will China Step Up in Q4 2026 to Solve the Diesel Shortage Again?
 permalink: Chinese-diesel-exports-Q4-2026
 section: oil
 ---
+***by Grace Johnston***
+
+
+7 September 2026
 
 Global diesel markets are tight again, and the instinct is to ask whether China will ride to the rescue as it did in late 2022. Probably not to the same degree — the mechanics this time are different enough that the 2022 playbook only partly applies.
 
