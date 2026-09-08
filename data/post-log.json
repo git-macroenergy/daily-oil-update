@@ -987,6 +987,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-08",
+      "items": [
+        {
+          "headline": "The Houthis Just Widened Their Target List Beyond Jazan \u2014 And Broke Brent Through $100 for the First Time Since June",
+          "theme": "houthi-front-widens-brent-100-breakout",
+          "hashtags": [
+            "SaudiArabia",
+            "Houthi",
+            "BrentCrude",
+            "RefineryOutage",
+            "RedSea"
+          ]
+        },
+        {
+          "headline": "Iraq's Second-Largest Oilfield Just Threatened a Strike \u2014 Days Before Chevron Was Supposed to Close the Deal",
+          "theme": "west-qurna2-labor-strike-chevron-risk",
+          "hashtags": [
+            "Iraq",
+            "WestQurna2",
+            "Chevron",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "The Fed's Rate Decision Just Collided With a Refining System That Has No Spare Capacity Left",
+          "theme": "fed-cpi-oil-inflation-collision",
+          "hashtags": [
+            "FederalReserve",
+            "Inflation",
+            "GasolinePrices",
+            "RefiningMargins",
+            "OilPrices"
+          ]
+        }
+      ]
     }
   ]
 }
