@@ -1025,6 +1025,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "items": [
+        {
+          "headline": "Iran Just Fired Ballistic Missiles at a US Warship Twice \u2014 Then Hit Jordan With Real Missiles, Not Threats",
+          "theme": "iran-us-warship-jordan-strike-escalation",
+          "hashtags": [
+            "Iran",
+            "StraitOfHormuz",
+            "CrudeSupply",
+            "OilGeopolitics",
+            "Jordan"
+          ]
+        },
+        {
+          "headline": "The US Just Ran Its Emergency Oil Reserve Down to 1982 Levels \u2014 Right as Brent Clears $100",
+          "theme": "spr-record-low-buffer-gone",
+          "hashtags": [
+            "SPR",
+            "CrudeSupply",
+            "OilPrices",
+            "GasolinePrices",
+            "USPolicy"
+          ]
+        },
+        {
+          "headline": "China's Teapot Refiners Are About to Cut Runs \u2014 The Iran-Venezuela Squeeze Finally Caught Up",
+          "theme": "china-teapot-refiners-run-cuts",
+          "hashtags": [
+            "China",
+            "RefiningMargins",
+            "CrudeSupply",
+            "Iran",
+            "Venezuela"
+          ]
+        }
+      ]
     }
   ]
 }
