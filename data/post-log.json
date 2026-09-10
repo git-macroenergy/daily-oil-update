@@ -1063,6 +1063,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "items": [
+        {
+          "headline": "Vitol's Own Numbers Show Hormuz Product Flows Stuck at a Quarter of Normal",
+          "theme": "hormuz-product-flow-stall",
+          "hashtags": [
+            "StraitOfHormuz",
+            "DieselMarket",
+            "RefiningMargins",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "Trump Just Put a Date on Pump-Price Relief \u2014 It's Eight Weeks Away, and EIA Isn't So Sure",
+          "theme": "trump-midterm-price-admission",
+          "hashtags": [
+            "GasolinePrices",
+            "DieselMarket",
+            "USPolicy",
+            "RefiningMargins",
+            "OilPrices"
+          ]
+        },
+        {
+          "headline": "Canada's Oilpatch Just Signaled Where It Wants to Sell Its Barrels: Asia, Not Just the Gulf Coast",
+          "theme": "canada-clearwater-consolidation-asia-pivot",
+          "hashtags": [
+            "Canada",
+            "OilSands",
+            "CrudeSupply",
+            "Asia",
+            "MergersAndAcquisitions"
+          ]
+        }
+      ]
     }
   ]
 }
