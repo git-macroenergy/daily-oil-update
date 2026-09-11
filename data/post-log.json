@@ -1101,6 +1101,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "headline": "Saudi Arabia Is Burning Through Its Own Stockpile to Hide a Production Collapse",
+          "theme": "saudi-storage-drawdown-masks-output-collapse",
+          "hashtags": [
+            "SaudiArabia",
+            "OPEC",
+            "CrudeSupply",
+            "OilExports",
+            "RedSea"
+          ]
+        },
+        {
+          "headline": "Iran-Aligned Forces Now Control Both Oil Chokepoints Flanking the Arabian Peninsula",
+          "theme": "houthi-bab-el-mandeb-full-control",
+          "hashtags": [
+            "Houthi",
+            "BabElMandeb",
+            "RedSea",
+            "CrudeSupply",
+            "SaudiArabia"
+          ]
+        },
+        {
+          "headline": "Trump's Own Advisers Just Torched His Eight-Week Oil-Price Promise",
+          "theme": "white-house-2029-war-timeline-leak",
+          "hashtags": [
+            "Iran",
+            "USPolicy",
+            "OilPrices",
+            "CrudeSupply",
+            "GeopoliticalRisk"
+          ]
+        }
+      ]
     }
   ]
 }
