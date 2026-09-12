@@ -1139,6 +1139,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "items": [
+        {
+          "headline": "Saudi Arabia's Hormuz Escape Hatch Just Shut Itself \u2014 The East-West Pipeline Is Now Offline Too",
+          "theme": "saudi-east-west-pipeline-shutdown",
+          "hashtags": [
+            "SaudiArabia",
+            "Pipeline",
+            "StraitOfHormuz",
+            "RedSea",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "Six Gulf Foreign Ministers Are Flying to Oman Monday \u2014 the Meeting Is Already Priced Into $100 Oil",
+          "theme": "gcc-iran-salalah-summit-market-preemption",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Oman",
+            "GCC",
+            "OilPrices",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "The IEA Just Called a 2.5 Million-Barrel Demand Collapse \u2014 And Refining Margins Hit a Record Anyway",
+          "theme": "iea-demand-collapse-refining-margin-paradox",
+          "hashtags": [
+            "IEA",
+            "DieselMarket",
+            "RefiningMargins",
+            "CrudeSupply",
+            "OilDemand"
+          ]
+        }
+      ]
     }
   ]
 }
