@@ -1177,6 +1177,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "headline": "Iran Signs the Hormuz Traffic Deal Monday \u2014 Then Confirms the Strait Stays Closed Anyway",
+          "theme": "iran-oman-hormuz-deal-update-strait-stays-shut",
+          "hashtags": [
+            "Iran",
+            "Oman",
+            "StraitOfHormuz",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "The US Government's Own Model Says Oil Falls to $77 by Spring \u2014 Nobody's Trading Like They Believe It",
+          "theme": "eia-77-dollar-2027-forecast-vs-market",
+          "hashtags": [
+            "EIA",
+            "OilPrices",
+            "CrudeSupply",
+            "StraitOfHormuz",
+            "OilForecast"
+          ]
+        },
+        {
+          "headline": "Diesel Just Broke Its All-Time Price Record With Crude $28 Cheaper Than Last Time \u2014 And Goldman Says the Margin Stays That Way Into 2027",
+          "theme": "diesel-record-decoupled-crude-goldman-2027-floor",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "GoldmanSachs",
+            "GasolinePrices",
+            "CrudeSupply"
+          ]
+        }
+      ]
     }
   ]
 }
