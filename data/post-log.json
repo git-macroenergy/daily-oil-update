@@ -1215,6 +1215,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "headline": "Trump Says Russia and Ukraine Agreed to an Energy Truce \u2014 Zelensky Says It's Still Just a Proposal",
+          "theme": "trump-zelensky-energy-truce-proposal",
+          "hashtags": [
+            "Ukraine",
+            "Russia",
+            "DieselMarket",
+            "OilGeopolitics",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "A Three-Hour Power Blip Just Exposed How Thin Chicago's Fuel Supply Really Is",
+          "theme": "exxon-joliet-outage-midwest-fragility",
+          "hashtags": [
+            "ExxonMobil",
+            "RefineryOutage",
+            "GasolinePrices",
+            "Midwest",
+            "RefiningMargins"
+          ]
+        },
+        {
+          "headline": "Update: Saudi Arabia's Yanbu Buffer Now Has a Five-Day Countdown Clock",
+          "theme": "saudi-yanbu-stockpile-countdown-update",
+          "hashtags": [
+            "SaudiArabia",
+            "Pipeline",
+            "RedSea",
+            "CrudeSupply",
+            "OilSupply"
+          ]
+        }
+      ]
     }
   ]
 }
