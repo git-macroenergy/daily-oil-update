@@ -1253,6 +1253,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "headline": "China's Teapot Refiners Were Supposed to Cut Runs \u2014 Instead They Just Paid a Record Price for More Crude",
+          "theme": "china-teapot-refiners-record-yuan-buying",
+          "hashtags": [
+            "China",
+            "RefiningMargins",
+            "CrudeSupply",
+            "OilPrices",
+            "TeapotRefiners"
+          ]
+        },
+        {
+          "headline": "Update: The Gulf-Iran Summit Meant to Fix Hormuz Never Happened \u2014 Riyadh and Tehran Can't Even Agree on Why",
+          "theme": "gcc-iran-salalah-summit-postponed",
+          "hashtags": [
+            "StraitOfHormuz",
+            "SaudiArabia",
+            "Iran",
+            "GCC",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "Iran Just Found a Chokepoint Bigger Than Mines: Threatening the Insurers Who Cover Hormuz Tankers",
+          "theme": "iran-hormuz-insurance-blacklist-coercion",
+          "hashtags": [
+            "StraitOfHormuz",
+            "Iran",
+            "TankerInsurance",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        }
+      ]
     }
   ]
 }
