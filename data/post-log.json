@@ -1291,6 +1291,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "headline": "Libya Was Quietly Filling the Hole Left by Hormuz and Saudi Outages \u2014 Its Own Oil Guards Just Shut Three Fields",
+          "theme": "libya-guard-shutdown-third-supply-front",
+          "hashtags": [
+            "Libya",
+            "CrudeSupply",
+            "OilSupply",
+            "ForceMajeure",
+            "OilGeopolitics"
+          ]
+        },
+        {
+          "headline": "Saudi Arabia Just Cut Off Europe \u2014 Poland's Refiners Are Scrambling for Crude at $120+ a Barrel",
+          "theme": "saudi-europe-cargo-cuts-poland-scramble",
+          "hashtags": [
+            "SaudiArabia",
+            "Europe",
+            "CrudeSupply",
+            "Poland",
+            "OilPrices"
+          ]
+        },
+        {
+          "headline": "BofA Just Put $150 on the Table for Brent \u2014 the Same Day a Crude Build Argued the Rally's Overdone",
+          "theme": "bofa-150-call-api-build-tension",
+          "hashtags": [
+            "OilPrices",
+            "CrudeSupply",
+            "OilForecast",
+            "StraitOfHormuz",
+            "RefiningMargins"
+          ]
+        }
+      ]
     }
   ]
 }
