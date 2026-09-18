@@ -1367,6 +1367,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "headline": "Aramco's Own Fix Timeline Just Told the Market the Pipeline Outage Isn't a Few Days \u2014 It's Six Weeks",
+          "theme": "east-west-pipeline-six-week-repair-timeline",
+          "hashtags": [
+            "SaudiArabia",
+            "Pipeline",
+            "CrudeSupply",
+            "OilPrices",
+            "RedSea"
+          ]
+        },
+        {
+          "headline": "Refiners Are Quietly Skipping Turnarounds Right When Washington Wants Them Running Harder",
+          "theme": "refinery-maintenance-deferral-dpa-collision",
+          "hashtags": [
+            "RefiningMargins",
+            "DefenseProductionAct",
+            "RefineryMaintenance",
+            "DieselMarket",
+            "Midwest"
+          ]
+        },
+        {
+          "headline": "Tuesday's UN Sideline Meeting Is Where Trump Decides Whether the Iran War Gets a Second Act",
+          "theme": "trump-gulf-unga-attack-decision-point",
+          "hashtags": [
+            "Iran",
+            "USPolicy",
+            "GeopoliticalRisk",
+            "StraitOfHormuz",
+            "OilPrices"
+          ]
+        }
+      ]
     }
   ]
 }
