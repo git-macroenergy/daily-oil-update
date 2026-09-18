@@ -15,11 +15,14 @@ import os
 import re
 import sys
 import urllib.request
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timezone, timedelta
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOG_PATH = os.path.join(REPO_ROOT, "data", "post-log.json")
 POSTS_DIR = os.path.join(REPO_ROOT, "_posts")
+
+X_QUEUE_PATH = os.path.join(REPO_ROOT, "data", "x_queue.json")
+X_POST_INTERVAL_HOURS = 2
 
 API_URL = "https://api.anthropic.com/v1/messages"
 MODEL = "claude-sonnet-5"  # update if your account uses a different model string
@@ -162,6 +165,31 @@ def build_post_markdown(items: list, post_date: date) -> tuple[str, str]:
 
     return filename, front_matter + "\n".join(body_parts)
 
+def build_x_queue(items, post_date, filename_slug):
+    """Stage each item as a queued X post, spaced X_POST_INTERVAL_HOURS apart,
+    starting now. Does not call any API - just schedules from existing data."""
+    post_url = f"https://macroenergy.net/daily/{post_date.year:04d}/{post_date.month:02d}/{post_date.day:02d}/{filename_slug}/"
+    now = datetime.now(timezone.utc)
+
+    queue = []
+    if os.path.exists(X_QUEUE_PATH):
+        with open(X_QUEUE_PATH) as f:
+            queue = json.load(f)
+
+    for i, item in enumerate(items):
+        post_at = now + timedelta(hours=X_POST_INTERVAL_HOURS * i)
+        queue.append({
+            "id": f"{post_date.isoformat()}-{i}",
+            "paragraph": item["paragraph"],
+            "hashtags": item.get("hashtags", [])[:2],  # keep it short for X
+            "url": post_url,
+            "post_at": post_at.isoformat(),
+            "posted": False,
+        })
+
+    with open(X_QUEUE_PATH, "w") as f:
+        json.dump(queue, f, indent=2)
+        f.write("\n")
 
 def main():
     log = load_log()
@@ -191,6 +219,10 @@ def main():
         ],
     })
     save_log(log)
+
+    filename_slug = slugify(items[0]["headline"])
+    build_x_queue(items, today, filename_slug)
+    print(f"Queued {len(items)} item(s) for X posting.")
 
     print(f"Wrote {filename} with {len(items)} item(s) and updated log.")
 
