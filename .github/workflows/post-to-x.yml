@@ -1,0 +1,46 @@
+name: Post queued items to X
+
+on:
+  schedule:
+    # Runs every hour - each run just checks whether anything in the queue
+    # is due, so this is what actually spaces posts out by ~2 hours.
+    - cron: "5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  post-to-x:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests requests-oauthlib
+
+      - name: Post any due items
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python scripts/post_to_x.py
+
+      - name: Commit updated queue if changed
+        run: |
+          git config user.name "x-post-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/x_queue.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Mark X posts as posted: $(date -u +%Y-%m-%dT%H:%M)"
+            git push
+          fi
