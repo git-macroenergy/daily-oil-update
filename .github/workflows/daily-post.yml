@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "oil-blog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add _posts data/post-log.json
+          git add _posts data/post-log.json data/x_queue.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
