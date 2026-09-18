@@ -1443,6 +1443,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "headline": "Update: Aramco Didn't Just Trim Europe's September Cargoes \u2014 It Just Zeroed Out All of October",
+          "theme": "aramco-europe-october-zero-allocation-update",
+          "hashtags": [
+            "SaudiArabia",
+            "Europe",
+            "CrudeSupply",
+            "Pipeline",
+            "OilPrices"
+          ]
+        },
+        {
+          "headline": "Update: Exxon's Joliet 'Three-Hour Blip' Just Became a Five-Day Blackout \u2014 Diesel Broke Its Record Again",
+          "theme": "joliet-flood-extends-outage-diesel-record-update",
+          "hashtags": [
+            "ExxonMobil",
+            "RefineryOutage",
+            "DieselMarket",
+            "Midwest",
+            "GasolinePrices"
+          ]
+        },
+        {
+          "headline": "US Rig Count Hits a Two-Year High \u2014 But Drillers Still Won't Chase $100 Oil Like They Used To",
+          "theme": "us-rig-count-two-year-high-restrained-response",
+          "hashtags": [
+            "USShale",
+            "RigCount",
+            "Permian",
+            "CrudeSupply",
+            "OilForecast"
+          ]
+        }
+      ]
     }
   ]
 }
