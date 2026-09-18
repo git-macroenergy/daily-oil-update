@@ -1405,6 +1405,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "headline": "Futures Are Falling, But Physical Crude Just Hit a $20 Premium \u2014 That's the Number That Matters",
+          "theme": "dated-brent-futures-decoupling-physical-tightness",
+          "hashtags": [
+            "DatedBrent",
+            "OilPrices",
+            "CrudeSupply",
+            "RefiningMargins",
+            "OilForecast"
+          ]
+        },
+        {
+          "headline": "Russia Just Pushed Its Diesel Export Ban Into November \u2014 And Killed Europe's Backdoor on the Same Week",
+          "theme": "russia-diesel-ban-october-extension-eu-backdoor-closure",
+          "hashtags": [
+            "Russia",
+            "DieselMarket",
+            "Europe",
+            "OilSanctions",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "Everyone's Watching Hormuz and Bab el-Mandeb \u2014 the Houthis Are Actually Marching on Yemen's Oil Fields",
+          "theme": "houthi-marib-oilfield-capture-risk",
+          "hashtags": [
+            "Houthis",
+            "Yemen",
+            "OilSupply",
+            "CrudeSupply",
+            "OilGeopolitics"
+          ]
+        }
+      ]
     }
   ]
 }
