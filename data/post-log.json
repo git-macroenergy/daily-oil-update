@@ -1481,6 +1481,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "headline": "VLCC Freight Just Broke $1 Million a Day \u2014 That's a Second Oil Price Hike Nobody's Pricing In",
+          "theme": "vlcc-freight-million-dollar-hidden-tax",
+          "hashtags": [
+            "TankerRates",
+            "VLCC",
+            "CrudeSupply",
+            "ShippingCosts",
+            "OilPrices"
+          ]
+        },
+        {
+          "headline": "US Refiners Are Running at 97% With No Diesel Cushion Left Before Winter Hits",
+          "theme": "us-refinery-utilization-ceiling-winter-risk",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningMargins",
+            "USRefining",
+            "WinterDemand",
+            "CrudeSupply"
+          ]
+        },
+        {
+          "headline": "While the Middle East Can't Guarantee a Barrel, Dangote Just Doubled Down on Becoming the World's Biggest Refinery",
+          "theme": "dangote-refinery-expansion-swing-supplier",
+          "hashtags": [
+            "Nigeria",
+            "Dangote",
+            "RefiningCapacity",
+            "Europe",
+            "JetFuel"
+          ]
+        }
+      ]
     }
   ]
 }
