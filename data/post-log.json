@@ -1519,6 +1519,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-19",
+      "items": [
+        {
+          "headline": "Saudi Arabia's Dark-Fleet Shuttle Is Quietly Deflating the Hormuz Risk Premium",
+          "theme": "saudi-sts-shuttle-deflates-premium",
+          "hashtags": [
+            "SaudiArabia",
+            "StraitOfHormuz",
+            "CrudeSupply",
+            "TankerShipping",
+            "OilPrices"
+          ]
+        },
+        {
+          "headline": "Update: A War-Crimes Finding Just Made Trump's UN Gulf Meeting Harder to Spin as an Off-Ramp",
+          "theme": "un-warcrimes-report-unga-meeting-update",
+          "hashtags": [
+            "Iran",
+            "USPolicy",
+            "StraitOfHormuz",
+            "OilGeopolitics",
+            "GeopoliticalRisk"
+          ]
+        },
+        {
+          "headline": "Forget the Next Outage \u2014 Gulf Oil's Tom Kloza Says $3 Diesel Is Gone for 15 Months",
+          "theme": "global-refining-capacity-structural-loss",
+          "hashtags": [
+            "DieselMarket",
+            "RefiningCapacity",
+            "GasolinePrices",
+            "OilForecast",
+            "CrudeSupply"
+          ]
+        }
+      ]
     }
   ]
 }
